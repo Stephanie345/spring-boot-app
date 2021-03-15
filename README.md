@@ -4,3 +4,5 @@
 
 
 Para rodar utilize: mvn spring-boot:run
+
+Para test: mvn test
